@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+}
+
+
+.bg {
+    /* The image used */
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: scroll;
+}
+
+.form-bg
+{
+    background-color: rgba(0, 0, 0, 0.7);
+}
